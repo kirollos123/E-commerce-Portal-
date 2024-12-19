@@ -39,7 +39,7 @@ This project involves designing a cloud architecture solution for an e-commerce 
   ![Architecture Diagram](link-to-your-diagram.png)
 
 - **Implementation Documentation:**
-  The full implementation document is available [here](link-to-PDF-or-details).
+  The full implementation document is available [here](https://drive.google.com/file/d/1HdFyVbXiOiHDFfp54IhfNvpg_zFW0Yxc/view?usp=sharing).
 
 ---
 
